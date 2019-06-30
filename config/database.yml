@@ -1,0 +1,8 @@
+development:
+  dataset_id: sample-datastore-emulator-rails
+
+production:
+  dataset_id: sample-datastore-emulator-rails
+
+test:
+  dataset_id: sample-datastore-emulator-rails
