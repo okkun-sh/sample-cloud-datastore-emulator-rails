@@ -1,8 +1,8 @@
 development:
-  dataset_id: sample-datastore-emulator-rails
+  dataset_id: sample-cloud-datastore-emulator-rails
 
 production:
-  dataset_id: sample-datastore-emulator-rails
+  dataset_id: sample-cloud-datastore-emulator-rails
 
 test:
-  dataset_id: sample-datastore-emulator-rails
+  dataset_id: sample-cloud-datastore-emulator-rails
